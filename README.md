@@ -1,8 +1,11 @@
 ## Hi, I'm Yasmin! 
-<div align="center">
-  <a href="https://github.com/yasminwz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yasminwz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminwz&layout=compact&langs_count=7&theme=omni"/>
+<a href = "https://github.com/yasminwz/github-readme-stats">
+  <img align = "center" width="400" src ="https://github-readme-stats.vercel.app/api?username=yasminwz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+</a>
+<a href = "https://github.com/yasminwz/github-readme-stats">
+    <img align = "center" width="400" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminwz&layout=compact&langs_count=7&theme=omni"/>
+</a>
+ 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Yasmin-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
