@@ -4,7 +4,6 @@
   <img height="170m" src="https://github-readme-stats.vercel.app/api?username=yasminwz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminwz&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
   ## My Stacks
 </div>
 <div style="display: inline_block"><br>
@@ -26,6 +25,7 @@
   <img align="center" alt="Yasmin-Intellij" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg"/>
   <img align="right" alt="Yas-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/424732414414422020/900431021294632980/picasion.com_06f5efa5fa7cb84d6557bf8ba5192fae.gif">
 </div>
+
   &nbsp;
   &nbsp;
 
