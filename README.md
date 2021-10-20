@@ -5,7 +5,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminwz&layout=compact&langs_count=7&theme=omni"/>
 </div>
   
-  ## My Stacks
+## My Stacks
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Yasmin-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
@@ -30,9 +30,9 @@
   &nbsp;
   &nbsp;
 
-  ## My Social medias
-  </div>
-  <a href="https://www.instagram.com/yasmin_wichinievski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ ## My Social medias
+ </div>
+ <a href="https://www.instagram.com/yasmin_wichinievski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   &nbsp;
   &nbsp;
  <a href="https://discord.gg/eTYPGyHv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
