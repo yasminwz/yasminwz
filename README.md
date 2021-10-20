@@ -24,7 +24,7 @@
   &nbsp;
   &nbsp;
   <img align="center" alt="Yasmin-Intellij" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg"/>
-  <img align="right" alt="Yas-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/424732414414422020/900431021294632980/picasion.com_06f5efa5fa7cb84d6557bf8ba5192fae.gif">
+  <img align="right" alt="Yas-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/424732414414422020/900473547296743464/picasion.com_3fcc1dc76badb45c20901fcb9f18934c.gif">
 </div>
 
   &nbsp;
