@@ -3,7 +3,7 @@
   <img align = "center" width="450" src ="https://github-readme-stats.vercel.app/api?username=yasminwz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 </a>
 <a href = "https://github.com/yasminwz/github-readme-stats">
-    <img align = "center" width="410" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminwz&langs_count=7&theme=omni&show_icons=true&include_all_commits=true"/>
+   <img align = "center" width="410" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminwz&langs_count=7&theme=omni&show_icons=true&include_all_commits=true"/>
 </a>
  
  ## My stacks
